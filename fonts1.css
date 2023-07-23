@@ -1,0 +1,161 @@
+
+.navFont {
+color: #000;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.25;
+}
+
+.contactsFont {
+    color: #000;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24.3px; /* 135% */
+}
+
+@font-face {
+    font-family: "Ralewey-bold";
+    src: url(fonts/Raleway-Bold.woff) format(woff);
+}
+@font-face {
+    font-family: "Ralewey-bold2";
+    src: url(fonts/Raleway-Bold.woff2) format(woff2);
+}
+@font-face {
+    font-family: Ralewey-regular;
+    src: url(fonts/Raleway-Regular.woff) format(woff);
+}
+@font-face {
+    font-family: Ralewey-regular2;
+    src: url(fonts/Raleway-Regular.woff2) format(woff2);
+}
+
+.mainTextBottomStart{
+    color: #FFF;
+    text-align: right;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 100px */
+    letter-spacing: 60px;
+    text-transform: uppercase;}
+
+ .mainTextCenterStart {
+      color: #FFF;
+        text-align: center;
+        font-family: Raleway;
+        font-size: 100px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 100%; /* 100px */
+        letter-spacing: 30px;
+        text-transform: uppercase;}
+
+        .mainTextUpStart {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115%;
+    letter-spacing: 60px;
+    text-transform: uppercase;}
+    
+    .aucText{
+
+        color: #FFF;
+text-align: center;
+font-family: Raleway;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 127.273% */
+text-transform: uppercase;
+    }
+
+    .aucButton {
+        font-size: 22px;
+  text-transform: uppercase;
+  color: #FFF;
+    }
+
+    .lotsName{
+        color: #000;
+font-family: Raleway;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+    }
+
+    .cardNameTitle{
+
+        color: #FFF;
+font-family: Raleway;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 26.4px */
+text-decoration-line: underline;
+text-transform: uppercase;
+text-decoration-thickness: 1px;
+text-underline-offset: 3px;
+    }
+
+    .cardText{
+        width: 350px;
+
+        color: #FFF;
+font-family: Raleway;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 24px */
+    }
+
+    .lotsSeeMoreButton{
+        color: #000;
+font-family: Raleway;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+
+    .aboutTitle {
+        color: #000;
+        font-family: Raleway;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+
+    .aboutText{
+        color: #000;
+font-family: Raleway;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+line-height: 1.15;    
+}
+   
+.addressList, .footerMenu{
+   
+     
+    color: #000;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24.3px; /* 135% */
+}
+
